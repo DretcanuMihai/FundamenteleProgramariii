@@ -1,0 +1,1 @@
+#pachet ce contine definirea entitatilor folosite (student si disciplina)

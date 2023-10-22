@@ -1,0 +1,6 @@
+1;Analiza;Mihaita Iftode
+5;Caligafrie;Zandrei Iftode
+10;Educatie Fizica;Sorin Galer
+2;Sport;Sorin Galer
+7;Fizica;Tot Galer
+3;Calea Veche;Calea Noua

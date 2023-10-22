@@ -1,0 +1,1 @@
+#pachet cu functii ajutatoare

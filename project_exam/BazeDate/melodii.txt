@@ -1,0 +1,18 @@
+Melodie;Dan Balan;Pop;300
+Alta Melodie;Dan Balan;Rock;250
+Muzica Buna;Aerosmith;Rock;120
+Plastic Blaze;Black Moth;Rock;200
+Frank;Bob;Jazz;100
+Alt Frank;Bob;Jazz;120
+Astrologer;Gryphon;Pop;12
+Rotopercutor;Vecinu;Altele;9001
+Test;Uite Test;Altele;1
+Melodie;San Dandu;Jazz;3
+a;a;Altele;1952
+b;d;Jazz;1995
+a;d;Pop;1994
+a;c;Altele;1993
+b;c;Rock;1987
+w;t;Altele;1998
+e;r;Jazz;1956
+e;t;Altele;1985

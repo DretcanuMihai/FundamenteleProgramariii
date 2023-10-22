@@ -1,0 +1,3 @@
+Fain;Foarte Fain;Rock;120
+Test2;Artist2;Pop;30
+Test1;Artist1;Pop;2

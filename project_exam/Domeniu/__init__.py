@@ -1,0 +1,1 @@
+#pachet ce contine definirea claselor de domeniu si validatori

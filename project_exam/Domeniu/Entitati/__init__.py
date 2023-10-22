@@ -1,0 +1,1 @@
+#pachet ce contine definirea claselor pentru entitatile domeniului

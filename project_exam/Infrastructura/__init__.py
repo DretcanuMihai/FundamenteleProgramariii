@@ -1,0 +1,1 @@
+#pachet destinat infrastructurii programului

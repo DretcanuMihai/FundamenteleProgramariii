@@ -1,0 +1,1 @@
+#pachet ce contine validatoare pentru entitatile domeniului

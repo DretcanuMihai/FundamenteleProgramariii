@@ -1,0 +1,1 @@
+#pachet ce reprezinta domeniul
